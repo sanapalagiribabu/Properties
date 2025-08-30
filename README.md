@@ -1,2 +1,1 @@
 # Properties
-properties files
